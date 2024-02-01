@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyi
+*.pyproj
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+*.manifest
+*.spec
+
+# Deta
+.deta/
+.detaignore
+
+Spacefile
+
+.venv
+.space
